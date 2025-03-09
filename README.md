@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Data Structure Assignment for sorting Algorithms
+- 🌱 I’m recently built a quiz app wit Flutter [here](https://github.com/Amrwael10/Quiz-App-Flutter) 
+- 👯 I’m looking to collaborate on Data Analysis program.
+ 
+send me on amrw03304@gmail.com 
+
+my LinkedIn profile : [here](https://www.linkedin.com/in/amr-wael-913927288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **Amrwael10/Amrwael10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
