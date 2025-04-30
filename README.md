@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Data Structure Assignment for sorting Algorithms
+- 🔭 I’m currently working on Expense Tracker Flutter App.
 - 🌱 I’m recently built a quiz app wit Flutter [here](https://github.com/Amrwael10/Quiz-App-Flutter) 
 - 👯 I’m looking to collaborate on Data Analysis program.
 
